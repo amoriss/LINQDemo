@@ -1,0 +1,10 @@
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\bin\Debug\netcoreapp3.1\LinqLibrary.deps.json
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\bin\Debug\netcoreapp3.1\LinqLibrary.dll
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\bin\Debug\netcoreapp3.1\LinqLibrary.pdb
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.dll
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.pdb

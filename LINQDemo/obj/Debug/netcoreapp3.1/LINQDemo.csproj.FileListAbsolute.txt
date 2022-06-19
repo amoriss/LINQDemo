@@ -1,0 +1,17 @@
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.exe
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.deps.json
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.runtimeconfig.dev.json
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.dll
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.pdb
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LinqLibrary.dll
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\bin\Debug\netcoreapp3.1\LinqLibrary.pdb
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csproj.CopyComplete
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.dll
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.pdb
+C:\Users\amori\Desktop\Repos\04_LINQ\LINQDemo\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.genruntimeconfig.cache
